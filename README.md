@@ -3,7 +3,7 @@
 My name is Luis, and I like software development overall
 🌱 I’m currently learning NodeJs, and sometimes React too.
 Feel free to contact me on 
-<a href="https://www.linkedin.com/in/luis-ernesto-pérez-lechuga-a0a1531b7" target="blank"><img align="center" src="https://github.com/LuisPerezLec/LuisPerezLec/blob/main/linkedin.svg" alt="" height="30" /></a>
+<a href="https://www.linkedin.com/in/luis-ernesto-pérez-lechuga-a0a1531b7" target="blank"><img align="center" src="https://github.com/LuisPerezLec/LuisPerezLec/blob/main/icons8-linkedin.svg" alt="" height="30" /></a>
 
 <!--
 
